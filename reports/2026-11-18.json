@@ -1,97 +1,695 @@
 {
-  "date": "2026-11-18",
-  "summary": [
-    "11.11(双11) 직후 — '구매 결산 인증(战绩)' 게시물이 소비 분야 최대 화제",
-    "'꼭 필요한 것만, 오래 쓰기(长期主义·精简)'와 '광고 아닌 진짜 후기(无广)'가 뷰티 전반에 공통 흐름",
-    "2027 춘절 해외여행·크리스마스 한국 쇼핑 계획 글이 시작됨, '한국 한 번 가는 데 얼마?' 검색 증가"
-  ],
-  "hot": [
-    {"cat": "건강", "title": "신장 보강·노화 방지·탈모 관리 보양법", "orig": "补肾抗老养发 不上火不烧心", "likes": "1.1만", "date": "4일 전", "url": "https://www.rednote.com/explore/6af81472000000002203ab2f?xsec_token=ABmzHQ8tpXyim5btlNv-1J0e5Nu4qaSMvNnXXUxB5U7SQ="},
-    {"cat": "패션", "title": "겨울 감성 코디 사진", "orig": "🪶", "likes": "7,765", "date": "7시간 전", "url": "https://www.rednote.com/explore/6afd34aa000000002b018d1a?xsec_token=ABq95ANohnKaAsKV1-J-HbLCigm_RRu5jrFrrq8eKgyVU="},
-    {"cat": "K뷰티", "title": "9~10월 계속 쓴 '은인' 색조템 (광고 아님)", "orig": "9-10月反复在用+完全信任的报恩彩妆｜无广", "likes": "5,445", "comments": "253", "date": "3일 전", "url": "https://www.rednote.com/explore/6af9ae4100000000240331bd?xsec_token=ABrCts3t1vBT0DxaK9Lc6rqXkLvBctYKvsDTMNRPbrHGQ="},
-    {"cat": "디지털", "title": "100위안대 무선 데스크 셋업 + 무선충전", "orig": "一百多就能搞定无线化桌面，还能无线充电？", "likes": "5,275", "date": "6일 전", "url": "https://www.rednote.com/explore/6af54d34000000001802aecc?xsec_token=ABYqvolnn7MvgxKpaWBFvZfW4-cDcAXIFij6Ce3-r0JqE="},
-    {"cat": "패션", "title": "일상 감성 패딩 4종", "orig": "150｜日常又氛围的羽绒服*4", "likes": "5,122", "date": "6일 전", "url": "https://www.rednote.com/explore/6af598d10000000025013f2a?xsec_token=ABYqvolnn7MvgxKpaWBFvZffsEN1b5E4nZDOAWcDh475c="}
-  ],
-  "products": [
-    {
-      "title": "9~10월 계속 쓴 '은인' 색조템 (광고 아님)",
-      "url": "https://www.rednote.com/explore/6af9ae4100000000240331bd?xsec_token=ABrCts3t1vBT0DxaK9Lc6rqXkLvBctYKvsDTMNRPbrHGQ=",
-      "stats": {"likes": "5,445", "saves": "-", "comments": "253"},
-      "tags": "#韩妆 #彩妆好物 #爱用物",
-      "items": [
-        ["베이스", "料堆堆(LIAODUIDUI) 운기 광채 파운데이션 · Anua DNA 물광 에센스 · Dr.Althea 345 미스트 · 지방시 프라이머 #스카이블루"],
-        ["아이", "花知晓(Flower Knows) 아이섀도 01 · 卡其色彩 애교살 펜슬 02"],
-        ["블러셔·립", "3CE 쿠로미 시리즈 #SMOKED PETAL · 酵色(Joocyee) 블러셔 240 / 립 561"],
-        ["기타", "CEZANNE 하이라이트 팩트 · GirlsCrush 물진주 하이라이터"]
-      ],
-      "note": "한국 브랜드(3CE·Anua·Dr.Althea)와 중국 브랜드 혼합 조합. 댓글 대부분이 '제품 뭐예요?' 질문"
-    },
-    {
-      "title": "2026 명품 브랜드 신상 립 리스트",
-      "url": "https://www.rednote.com/explore/6af5932b000000002301123a?xsec_token=ABYqvolnn7MvgxKpaWBFvZfeaScXFrOWqvM_OtT9lmyVk=",
-      "stats": {"likes": "1,800", "saves": "1,200", "comments": "185"},
-      "tags": "#大牌口红 #秋冬口红 #口红试色",
-      "items": [
-        ["샤넬", "443"], ["랑콤", "702 (가장 많이 문의된 색상)"], ["디올", "립글로스 200"], ["YSL", "1961"],
-        ["기타", "버버리 605 · 구찌 122 · 발렌티노 106A · 에스티로더 156 · 아르마니 12 · 메이크업포에버 602 · 아워글래스 55 · MAC 249 · 톰포드 TF17/TF03"]
-      ],
-      "note": "저장 수가 좋아요의 2/3 수준 — 구매하려고 저장해 두는 글"
-    },
-    {
-      "title": "샤넬 필수템 7개 (가치 유지·대체품 없음)",
-      "url": "https://www.rednote.com/explore/6af6fad5000000002b006f63?xsec_token=AB6dvKU8eHNIazx7w4py4SeioMN7ej-iMuOlSKy7Qu6eE=",
-      "stats": {"likes": "1,072", "saves": "-", "comments": "106"},
-      "tags": "#香奈儿彩妆 #精简化妆 #大牌彩妆",
-      "items": [
-        ["베이스", "샤넬 롱웨어 파운데이션 (약 600위안, '입문 1순위') · 버블 파운데이션"],
-        ["블러셔", "버블 블러셔 #LIKE"],
-        ["립", "듀얼 립글로스 #186 · 립스틱 #130 · 립&볼 #03"],
-        ["아이", "아이섀도 팔레트 #WARM"]
-      ],
-      "note": "댓글에 '한국 대리구매 필요한 분?' 등장 — 한국 면세 구매 수요로 연결"
-    }
-  ],
-  "brands": {
-    "명품": ["샤넬", "랑콤", "디올", "YSL", "톰포드"],
-    "한국": ["3CE", "Anua", "Dr.Althea", "올리브영(채널)"],
-    "중국": ["Joocyee(酵色)", "Flower Knows(花知晓)", "料堆堆"]
+ "date": "2026-11-18",
+ "summary": [
+  "11.11(双11) 직후 — '구매 결산 인증(战绩)' 게시물이 소비 분야 최대 화제",
+  "'꼭 필요한 것만, 오래 쓰기(长期主义·精简)'와 '광고 아닌 진짜 후기(无广)'가 뷰티 전반에 공통 흐름",
+  "2027 춘절 해외여행·크리스마스 한국 쇼핑 계획 글이 시작됨, '한국 한 번 가는 데 얼마?' 검색 증가"
+ ],
+ "hot": [
+  {
+   "cat": "건강",
+   "title": "신장 보강·노화 방지·탈모 관리 보양법 (열 오르지 않는 방법)",
+   "orig": "补肾抗老养发 不上火不烧心",
+   "likes": "1.1만",
+   "saves": "1.7만",
+   "comments": "338",
+   "date": "4일 전",
+   "url": "https://www.rednote.com/explore/6af81472000000002203ab2f?xsec_token=ABmzHQ8tpXyim5btlNv-1J0e5Nu4qaSMvNnXXUxB5U7SQ="
   },
-  "sections": [
-    {"name": "💄 한국 화장품", "trend": "올리브영 단품 후기 대세 — 다크서클·모공·블랙헤드 고민별 '이거 사라' 형식", "posts": [["브랜드 소개 시리즈: colorgram", "666", "https://www.rednote.com/explore/6afaca69000000001c032fbf?xsec_token=ABN5Hcn8ySBqzxEmQLnY5n2RPAhuGl6vIN8CsVyVc8XAM="]], "searches": ["韩国必买彩妆", "韩国oliveyoung", "oy必买护肤品", "韩国补水棒"]},
-    {"name": "💎 해외 명품 화장품", "trend": "'브랜드별 하나만, 오래 쓰기(长期主义·无平替)'", "posts": [["2026 명품 신상 립 리스트", "1,832", "https://www.rednote.com/explore/6af5932b000000002301123a?xsec_token=ABYqvolnn7MvgxKpaWBFvZfeaScXFrOWqvM_OtT9lmyVk="], ["명품인데 사진은 왜 싸 보일까", "985", "https://www.rednote.com/explore/6afa8fc80000000009022b78?xsec_token=ABN5Hcn8ySBqzxEmQLnY5n2dQYWYIcPTdGOqGV1q0A1qc="]], "searches": ["大牌美妆礼盒", "美妆大牌排名", "大牌美妆集合店"]},
-    {"name": "⌚ 시계", "trend": "셔츠·숄과 맞춘 시계 코디, 작고 섬세한 여성 시계, 중고 시계", "posts": [["오메가 콘스텔레이션 착용샷", "2,601", "https://www.rednote.com/explore/6af883b1000000001f017b5d?xsec_token=ABmzHQ8tpXyim5btlNv-1J0bimzxhMNUore9DLDCWk5Ls="], ["이 작은 시계 갖고 싶은 사람?", "1,878", "https://www.rednote.com/explore/6af818c30000000024032e62?xsec_token=ABmzHQ8tpXyim5btlNv-1J0RwPdM6z4gduC2IE4kkEong="]], "searches": ["高端腕表", "二手腕表", "适合年轻人的手表"]},
-    {"name": "👗 패션", "trend": "패딩, 레이어드, 체형별 코디", "posts": [["낙엽과 눈, 그리고 잘 입은 옷", "4,919", "https://www.rednote.com/explore/6af6f337000000002303f336?xsec_token=AB6dvKU8eHNIazx7w4py4SeurDyc8k37USI9G85Mb8Okg="]], "searches": ["秋冬穿搭", "日系穿搭", "梨形身材穿搭", "冬季叠穿"]},
-    {"name": "🍵 건강", "trend": "겨울 보양, 남성 양생차, 중국식 건강 아침 — '양생'이 젊은 층으로 확산", "posts": [["남성용 겨울 양생차", "3,947", "https://www.rednote.com/explore/6af87fd9000000001c033874?xsec_token=ABmzHQ8tpXyim5btlNv-1J0ak2oi_cpscxYFmP2P04Iuk="], ["중국식 양생 아침 브이로그", "1,858", "https://www.rednote.com/explore/6af68dc000000000230138f7?xsec_token=AB6dvKU8eHNIazx7w4py4SepeM-VuUMFHbmvCBJBvmPEg="]], "searches": ["男生养生", "每日养生小知识"]},
-    {"name": "🥃 주류", "trend": "최근 1주 게시물 적음 — 해외 저가 구매·위스키 입문 관심", "posts": [["마카오에서 양주 싸게 사는 법", "35", "https://www.rednote.com/explore/6adb81b8000000000d02cca7?xsec_token=ABL__zTMqkljusn0AhL5UxEYiaBQ1wEY8vVTaA0v2zm5I="]], "searches": ["威士忌推荐", "什么洋酒适合纯饮", "十大洋酒排名"], "stale": true},
-    {"name": "🍜 음식·맛집", "trend": "지방 도시의 허름한 숨은 맛집, 노점 고기구이", "posts": [["창사에서 제일 맛있는 허름한 가게", "1.3만", "https://www.rednote.com/explore/6ad8b4ae000000002c012054?xsec_token=ABjKGhVizhiwroToecORHXYwnMsqXJTUAIacQJSqJ3q5k="]], "searches": ["美食探店"], "stale": true},
-    {"name": "🧋 음료", "trend": "주간 신상 밀크티 정리, 新中式(신중국풍) 블렌딩 차", "posts": [], "searches": ["新中式茶饮特调", "饮品上新"]},
-    {"name": "📱 디지털", "trend": "새 아이폰 설정 팁, 소니 카메라 검수, 저가 데스크 셋업", "posts": [["새 아이폰 받으면 꼭 할 설정", "175", "https://www.rednote.com/explore/6afd1abd000000001b01ddd7?xsec_token=ABq95ANohnKaAsKV1-J-HbLGtsFFw5XOpNa5rJiSaiCIc="]], "searches": []},
-    {"name": "💪 운동", "trend": "운동복 코디, 근육 늘리기 초보 실수", "posts": [["운동복 공유", "3만", "https://www.rednote.com/explore/6a880d35000000002a02ce72?xsec_token=AB_szaOeLpjgLGqg8yKOgGdlvtZfWKv7S--N513EafajE="]], "searches": [], "stale": true},
-    {"name": "🐱 반려동물", "trend": "고양이 '전자 집사'(남의 고양이로 대리만족)", "posts": [["전자 집사 해줄래요?", "6.3만", "https://www.rednote.com/explore/6a69c7b4000000001002b404?xsec_token=AByrlDaF6lTMv8B2t70ku1BNjoKf6mr3p8tT3aWpc4Kvk="]], "searches": [], "stale": true},
-    {"name": "🏠 인테리어", "trend": "흑·백·브라운 배색, 첫 인테리어 '드림하우스'", "posts": [["첫 인테리어로 드림하우스", "6,124", "https://www.rednote.com/explore/6a994aac0000000028002456?xsec_token=AB_mj8KRXbNpQwT177kEtZtfMbUkSCk9ntYAo243GLpkg="]], "searches": [], "stale": true},
-    {"name": "🎤 덕질·공연", "trend": "谷子(애니 굿즈) 구매 인증, 11월 말 콘서트 정리", "posts": [["반년간 굿즈 구매 모음", "3.1만", "https://www.rednote.com/explore/6a512302000000001c027c46?xsec_token=AB6o6tmyDmbAKYs_H2UupbA_cBqnMsXxH86hnFfOH3jwk="]], "searches": [], "stale": true},
-    {"name": "🛍 쇼핑·소비", "trend": "11.11 결산 인증, 아이폰 판매 순위, 유니클로 가성비 — 1인당 평균 1,191위안", "posts": [], "searches": ["双11战绩可查", "双11收官战报"]},
-    {"name": "💭 라이프·돈", "trend": "情绪价值(감정적 만족)이 관계·소비·창업 키워드로 확산, 금 가격·월급 수준 관심", "posts": [], "searches": ["情绪价值拉满的文案", "什么叫提供情绪价值"]},
-    {"name": "✈️ 해외여행", "trend": "가성비 유럽 장기여행, 겨울 해외여행, 2027 춘절 여행 추천", "posts": [], "searches": ["冬天出境游", "支付宝出境游", "2027年春节出境游推荐"]}
+  {
+   "cat": "패션",
+   "title": "구스다운 겨울 코디 (사진 5장)",
+   "orig": "🪶 #鹅绒服装穿搭",
+   "likes": "7.9천",
+   "saves": "615",
+   "comments": "1.4천",
+   "date": "7시간 전",
+   "url": "https://www.rednote.com/explore/6afd34aa000000002b018d1a?xsec_token=ABq95ANohnKaAsKV1-J-HbLCigm_RRu5jrFrrq8eKgyVU="
+  },
+  {
+   "cat": "K뷰티",
+   "title": "9~10월 계속 쓴 '은인' 색조템 (광고 아님)",
+   "orig": "9-10月反复在用+完全信任的报恩彩妆｜无广",
+   "likes": "5.5천",
+   "saves": "1.7천",
+   "comments": "253",
+   "date": "3일 전",
+   "url": "https://www.rednote.com/explore/6af9ae4100000000240331bd?xsec_token=ABrCts3t1vBT0DxaK9Lc6rqXkLvBctYKvsDTMNRPbrHGQ="
+  },
+  {
+   "cat": "디지털",
+   "title": "100위안대로 무선 데스크 셋업 + 무선충전",
+   "orig": "一百多就能搞定无线化桌面，还能无线充电？",
+   "likes": "5.3천",
+   "saves": "1만",
+   "comments": "76",
+   "date": "6일 전",
+   "url": "https://www.rednote.com/explore/6af54d34000000001802aecc?xsec_token=ABYqvolnn7MvgxKpaWBFvZfW4-cDcAXIFij6Ce3-r0JqE="
+  },
+  {
+   "cat": "패션",
+   "title": "일상 감성 패딩 4종, 다 좋아!",
+   "orig": "150｜日常又氛围的羽绒服*4都好喜欢！",
+   "likes": "5.1천",
+   "saves": "2.1천",
+   "comments": "102",
+   "date": "6일 전",
+   "url": "https://www.rednote.com/explore/6af598d10000000025013f2a?xsec_token=ABYqvolnn7MvgxKpaWBFvZffsEN1b5E4nZDOAWcDh475c="
+  }
+ ],
+ "products": [
+  {
+   "title": "9~10월 계속 쓴 '은인' 색조템 (광고 아님)",
+   "url": "https://www.rednote.com/explore/6af9ae4100000000240331bd?xsec_token=ABrCts3t1vBT0DxaK9Lc6rqXkLvBctYKvsDTMNRPbrHGQ=",
+   "stats": {
+    "likes": "5.5천",
+    "saves": "1.7천",
+    "comments": "253"
+   },
+   "tags": "#韩妆 #彩妆好物 #爱用物",
+   "items": [
+    [
+     "베이스",
+     "料堆堆(LIAODUIDUI) 운기 광채 파운데이션 · Anua DNA 물광 에센스 · Dr.Althea 345 미스트 · 지방시 프라이머 #스카이블루"
+    ],
+    [
+     "아이",
+     "花知晓(Flower Knows) 아이섀도 01 · 卡其色彩 애교살 펜슬 02"
+    ],
+    [
+     "블러셔·립",
+     "3CE 쿠로미 시리즈 #SMOKED PETAL · 酵色(Joocyee) 블러셔 240 / 립 561"
+    ],
+    [
+     "기타",
+     "CEZANNE 하이라이트 팩트 · GirlsCrush 물진주 하이라이터"
+    ]
+   ],
+   "note": "한국 브랜드(3CE·Anua·Dr.Althea)와 중국 브랜드 혼합 조합. 댓글 대부분이 '제품 뭐예요?' 질문"
+  },
+  {
+   "title": "2026 명품 브랜드 신상 립 리스트",
+   "url": "https://www.rednote.com/explore/6af5932b000000002301123a?xsec_token=ABYqvolnn7MvgxKpaWBFvZfeaScXFrOWqvM_OtT9lmyVk=",
+   "stats": {
+    "likes": "1,800",
+    "saves": "1,200",
+    "comments": "185"
+   },
+   "tags": "#大牌口红 #秋冬口红 #口红试色",
+   "items": [
+    [
+     "샤넬",
+     "443"
+    ],
+    [
+     "랑콤",
+     "702 (가장 많이 문의된 색상)"
+    ],
+    [
+     "디올",
+     "립글로스 200"
+    ],
+    [
+     "YSL",
+     "1961"
+    ],
+    [
+     "기타",
+     "버버리 605 · 구찌 122 · 발렌티노 106A · 에스티로더 156 · 아르마니 12 · 메이크업포에버 602 · 아워글래스 55 · MAC 249 · 톰포드 TF17/TF03"
+    ]
+   ],
+   "note": "저장 수가 좋아요의 2/3 수준 — 구매하려고 저장해 두는 글"
+  },
+  {
+   "title": "샤넬 필수템 7개 (가치 유지·대체품 없음)",
+   "url": "https://www.rednote.com/explore/6af6fad5000000002b006f63?xsec_token=AB6dvKU8eHNIazx7w4py4SeioMN7ej-iMuOlSKy7Qu6eE=",
+   "stats": {
+    "likes": "1,072",
+    "saves": "-",
+    "comments": "106"
+   },
+   "tags": "#香奈儿彩妆 #精简化妆 #大牌彩妆",
+   "items": [
+    [
+     "베이스",
+     "샤넬 롱웨어 파운데이션 (약 600위안, '입문 1순위') · 버블 파운데이션"
+    ],
+    [
+     "블러셔",
+     "버블 블러셔 #LIKE"
+    ],
+    [
+     "립",
+     "듀얼 립글로스 #186 · 립스틱 #130 · 립&볼 #03"
+    ],
+    [
+     "아이",
+     "아이섀도 팔레트 #WARM"
+    ]
+   ],
+   "note": "댓글에 '한국 대리구매 필요한 분?' 등장 — 한국 면세 구매 수요로 연결"
+  }
+ ],
+ "brands": {
+  "명품": [
+   "샤넬",
+   "랑콤",
+   "디올",
+   "YSL",
+   "톰포드"
   ],
-  "korea": [
-    {"region": "한국 전체", "trend": "여행 경비, 어느 도시가 좋은지", "post": ["제주 5박 4일 공략", "1,659", "https://www.rednote.com/explore/6addac83000000002c0323be?xsec_token=ABDnQX4ZgN8EqEi7th6XH0z3cj1VcuTlCMjxYCTqlxRaY="], "searches": ["去韩国一趟要花多少钱", "韩国旅游去哪个城市好玩"]},
-    {"region": "서울", "trend": "가을 풍경, 필수 코스, 쇼핑", "post": ["처음 서울 오면 꼭 갈 5곳", "164", "https://www.rednote.com/explore/6ac48eec000000001401d47c?xsec_token=ABB_S3yQnw9MGsk7aiTcXyHmP4Z1THWHUGYRnMD9jUL1I="], "searches": ["首尔必去景点", "首尔秋天"]},
-    {"region": "부산", "trend": "겨울 부산, 쇼핑 공략", "post": ["부산 쇼핑 공략: 면세지 공짜 아님", "450", "https://www.rednote.com/explore/6aaf977d0000000027017def?xsec_token=AB1Mwz7k8ve2fYGgipe2ElcB4Oea0RNpoE-EqvvscvaXE="], "searches": ["釜山冬天", "釜山景点"]},
-    {"region": "제주", "trend": "바다 감성, 제주 코디 일기", "post": ["바람과 바다, 자유의 모양", "1,870", "https://www.rednote.com/explore/6afaacc5000000001802fe75?xsec_token=ABN5Hcn8ySBqzxEmQLnY5n2X4uVCghNkozdz886R42gBE="], "searches": ["济州岛美食", "济州岛必去景点"]}
+  "한국": [
+   "3CE",
+   "Anua",
+   "Dr.Althea",
+   "올리브영(채널)"
   ],
-  "dutyfree": [
-    "크리스마스 한국 쇼핑 계획 글 등장 (5일 전)",
-    "명동 신세계·롯데 비교 글에서 신라 언급 적음",
-    "신라 공식 계정(新罗爱宝客免税店) 11월 샤넬 클렌저 증정 게시물 좋아요 1,234",
-    "많이 찾는 검색어: 韩国线上免税店app · 韩国免税店香烟 · 韩国买lv便宜吗"
+  "중국": [
+   "Joocyee(酵色)",
+   "Flower Knows(花知晓)",
+   "料堆堆"
+  ]
+ },
+ "sections": [
+  {
+   "name": "💄 한국 화장품",
+   "trend": "올리브영 단품 후기 대세 — 다크서클·모공·블랙헤드 고민별 '이거 사라' 형식",
+   "posts": [
+    [
+     "브랜드 소개 시리즈: colorgram",
+     "666",
+     "https://www.rednote.com/explore/6afaca69000000001c032fbf?xsec_token=ABN5Hcn8ySBqzxEmQLnY5n2RPAhuGl6vIN8CsVyVc8XAM="
+    ]
+   ],
+   "searches": [
+    [
+     "韩国必买彩妆",
+     "한국 필수 색조"
+    ],
+    [
+     "韩国oliveyoung",
+     "한국 올리브영"
+    ],
+    [
+     "oy必买护肤品",
+     "올리브영 필수 스킨케어"
+    ],
+    [
+     "韩国补水棒",
+     "한국 수분 스틱"
+    ]
+   ]
+  },
+  {
+   "name": "💎 해외 명품 화장품",
+   "trend": "'브랜드별 하나만, 오래 쓰기(长期主义·无平替)'",
+   "posts": [
+    [
+     "2026 명품 신상 립 리스트",
+     "1,832",
+     "https://www.rednote.com/explore/6af5932b000000002301123a?xsec_token=ABYqvolnn7MvgxKpaWBFvZfeaScXFrOWqvM_OtT9lmyVk="
+    ],
+    [
+     "명품인데 사진은 왜 싸 보일까",
+     "985",
+     "https://www.rednote.com/explore/6afa8fc80000000009022b78?xsec_token=ABN5Hcn8ySBqzxEmQLnY5n2dQYWYIcPTdGOqGV1q0A1qc="
+    ]
+   ],
+   "searches": [
+    [
+     "大牌美妆礼盒",
+     "명품 화장품 선물세트"
+    ],
+    [
+     "美妆大牌排名",
+     "화장품 브랜드 순위"
+    ],
+    [
+     "大牌美妆集合店",
+     "명품 화장품 편집숍"
+    ]
+   ]
+  },
+  {
+   "name": "⌚ 시계",
+   "trend": "셔츠·숄과 맞춘 시계 코디, 작고 섬세한 여성 시계, 중고 시계",
+   "posts": [
+    [
+     "오메가 콘스텔레이션 착용샷",
+     "2,601",
+     "https://www.rednote.com/explore/6af883b1000000001f017b5d?xsec_token=ABmzHQ8tpXyim5btlNv-1J0bimzxhMNUore9DLDCWk5Ls="
+    ],
+    [
+     "이 작은 시계 갖고 싶은 사람?",
+     "1,878",
+     "https://www.rednote.com/explore/6af818c30000000024032e62?xsec_token=ABmzHQ8tpXyim5btlNv-1J0RwPdM6z4gduC2IE4kkEong="
+    ]
+   ],
+   "searches": [
+    [
+     "高端腕表",
+     "고급 시계"
+    ],
+    [
+     "二手腕表",
+     "중고 시계"
+    ],
+    [
+     "适合年轻人的手表",
+     "젊은 층용 시계"
+    ]
+   ]
+  },
+  {
+   "name": "👗 패션",
+   "trend": "패딩, 레이어드, 체형별 코디",
+   "posts": [
+    [
+     "낙엽과 눈, 그리고 잘 입은 옷",
+     "4,919",
+     "https://www.rednote.com/explore/6af6f337000000002303f336?xsec_token=AB6dvKU8eHNIazx7w4py4SeurDyc8k37USI9G85Mb8Okg="
+    ]
+   ],
+   "searches": [
+    [
+     "秋冬穿搭",
+     "가을·겨울 코디"
+    ],
+    [
+     "日系穿搭",
+     "일본풍 코디"
+    ],
+    [
+     "梨形身材穿搭",
+     "하체 통통형 코디"
+    ],
+    [
+     "冬季叠穿",
+     "겨울 레이어드"
+    ]
+   ]
+  },
+  {
+   "name": "🍵 건강",
+   "trend": "겨울 보양, 남성 양생차, 중국식 건강 아침 — '양생'이 젊은 층으로 확산",
+   "posts": [
+    [
+     "남성용 겨울 양생차",
+     "3,947",
+     "https://www.rednote.com/explore/6af87fd9000000001c033874?xsec_token=ABmzHQ8tpXyim5btlNv-1J0ak2oi_cpscxYFmP2P04Iuk="
+    ],
+    [
+     "중국식 양생 아침 브이로그",
+     "1,858",
+     "https://www.rednote.com/explore/6af68dc000000000230138f7?xsec_token=AB6dvKU8eHNIazx7w4py4SepeM-VuUMFHbmvCBJBvmPEg="
+    ]
+   ],
+   "searches": [
+    [
+     "男生养生",
+     "남성 양생"
+    ],
+    [
+     "每日养生小知识",
+     "매일 양생 상식"
+    ]
+   ]
+  },
+  {
+   "name": "🥃 주류",
+   "trend": "최근 1주 게시물 적음 — 해외 저가 구매·위스키 입문 관심",
+   "posts": [
+    [
+     "마카오에서 양주 싸게 사는 법",
+     "35",
+     "https://www.rednote.com/explore/6adb81b8000000000d02cca7?xsec_token=ABL__zTMqkljusn0AhL5UxEYiaBQ1wEY8vVTaA0v2zm5I="
+    ]
+   ],
+   "searches": [
+    [
+     "威士忌推荐",
+     "위스키 추천"
+    ],
+    [
+     "什么洋酒适合纯饮",
+     "스트레이트로 마시기 좋은 양주"
+    ],
+    [
+     "十大洋酒排名",
+     "양주 TOP10"
+    ]
+   ],
+   "stale": true
+  },
+  {
+   "name": "🍜 음식·맛집",
+   "trend": "지방 도시의 허름한 숨은 맛집, 노점 고기구이",
+   "posts": [
+    [
+     "창사에서 제일 맛있는 허름한 가게",
+     "1.3만",
+     "https://www.rednote.com/explore/6ad8b4ae000000002c012054?xsec_token=ABjKGhVizhiwroToecORHXYwnMsqXJTUAIacQJSqJ3q5k="
+    ]
+   ],
+   "searches": [
+    [
+     "美食探店",
+     "맛집 탐방"
+    ]
+   ],
+   "stale": true
+  },
+  {
+   "name": "🧋 음료",
+   "trend": "해외 진출 차 브랜드, 지역 음식 콜라보 밀크티, 新中式(신중국풍) 블렌딩 차",
+   "posts": [
+    [
+     "희차(喜茶), 뉴욕에 세계 첫 Matcha Lab 오픈?",
+     "2,198",
+     "https://www.rednote.com/explore/6af551a4000000002301294e?xsec_token=ABYqvolnn7MvgxKpaWBFvZfbEAbBvczCiyrMKKU8ARiL0="
+    ],
+    [
+     "후라탕(胡辣汤) 밀크티 신메뉴 출시",
+     "1,961",
+     "https://www.rednote.com/explore/6af6753c000000001f016f72?xsec_token=AB6dvKU8eHNIazx7w4py4SegyzU5ZJhMy071Qhf8w4bb8="
+    ]
+   ],
+   "searches": [
+    [
+     "新中式茶饮特调",
+     "신중국풍 차 음료"
+    ],
+    [
+     "饮品上新",
+     "음료 신메뉴"
+    ]
+   ]
+  },
+  {
+   "name": "📱 디지털",
+   "trend": "새 아이폰 설정 팁, 소니 카메라 검수, 저가 데스크 셋업",
+   "posts": [
+    [
+     "새 아이폰 받으면 꼭 할 설정",
+     "175",
+     "https://www.rednote.com/explore/6afd1abd000000001b01ddd7?xsec_token=ABq95ANohnKaAsKV1-J-HbLGtsFFw5XOpNa5rJiSaiCIc="
+    ]
+   ],
+   "searches": []
+  },
+  {
+   "name": "💪 운동",
+   "trend": "운동복 코디, 근육 늘리기 초보 실수",
+   "posts": [
+    [
+     "운동복 공유",
+     "3만",
+     "https://www.rednote.com/explore/6a880d35000000002a02ce72?xsec_token=AB_szaOeLpjgLGqg8yKOgGdlvtZfWKv7S--N513EafajE="
+    ]
+   ],
+   "searches": [],
+   "stale": true
+  },
+  {
+   "name": "🐱 반려동물",
+   "trend": "고양이 '전자 집사'(남의 고양이로 대리만족)",
+   "posts": [
+    [
+     "전자 집사 해줄래요?",
+     "6.3만",
+     "https://www.rednote.com/explore/6a69c7b4000000001002b404?xsec_token=AByrlDaF6lTMv8B2t70ku1BNjoKf6mr3p8tT3aWpc4Kvk="
+    ]
+   ],
+   "searches": [],
+   "stale": true
+  },
+  {
+   "name": "🏠 인테리어",
+   "trend": "흑·백·브라운 배색, 첫 인테리어 '드림하우스'",
+   "posts": [
+    [
+     "첫 인테리어로 드림하우스",
+     "6,124",
+     "https://www.rednote.com/explore/6a994aac0000000028002456?xsec_token=AB_mj8KRXbNpQwT177kEtZtfMbUkSCk9ntYAo243GLpkg="
+    ]
+   ],
+   "searches": [],
+   "stale": true
+  },
+  {
+   "name": "🎤 덕질·공연",
+   "trend": "谷子(애니 굿즈) 구매 인증, 11월 말 콘서트 정리",
+   "posts": [
+    [
+     "반년간 굿즈 구매 모음",
+     "3.1만",
+     "https://www.rednote.com/explore/6a512302000000001c027c46?xsec_token=AB6o6tmyDmbAKYs_H2UupbA_cBqnMsXxH86hnFfOH3jwk="
+    ]
+   ],
+   "searches": [],
+   "stale": true
+  },
+  {
+   "name": "🛍 쇼핑·소비",
+   "trend": "11.11 마감 결산, 스마트폰 판매 순위, 대형 셀러 매출 화제",
+   "posts": [
+    [
+     "올해 11.11 스마트폰 판매 순위, 1위가 의외",
+     "3,659",
+     "https://www.rednote.com/explore/6af66f61000000002a01bcab?xsec_token=AB6dvKU8eHNIazx7w4py4Seq9LBlngD6_FCxxg-TOwYzU="
+    ],
+    [
+     "11.11 마감! 천만 위안 매출 셀러들 이야기",
+     "1,335",
+     "https://www.rednote.com/explore/6afc62de00000000230117c7?xsec_token=ABcI7_dG5gVD93aT1eHdrPy4kBSJcX_CFgWIczO_6yCKk="
+    ]
+   ],
+   "searches": [
+    [
+     "双11战绩可查",
+     "11.11 구매 인증"
+    ],
+    [
+     "双11收官战报",
+     "11.11 마감 결산"
+    ]
+   ]
+  },
+  {
+   "name": "💭 라이프·돈",
+   "trend": "情绪价值(감정적 만족)이 관계·소비·창업 키워드로 확산, 금 가격·월급 수준 관심",
+   "posts": [
+    [
+     "남자의 사고방식으로 남자 달래기",
+     "6.1만",
+     "https://www.rednote.com/explore/6a56edf50000000006034cb3?xsec_token=ABMbnaHCXdYKFdqKSf4aPhsP50EAsYZBMOnu1APVSlV5U="
+    ],
+    [
+     "'감정적 만족'을 주는 말 모음",
+     "2.9만",
+     "https://www.rednote.com/explore/6a68779e0000000014007b7e?xsec_token=ABdXRxWTapaUMZBKXyJ_DKjcx7HxL7KJR60py94Vj7_oA="
+    ]
+   ],
+   "searches": [
+    [
+     "情绪价值拉满的文案",
+     "감정적 만족 주는 문구"
+    ],
+    [
+     "什么叫提供情绪价值",
+     "감정적 만족이란"
+    ]
+   ],
+   "stale": true
+  },
+  {
+   "name": "✈️ 해외여행",
+   "trend": "가성비 유럽 장기여행, 저가 단체여행 후기, 겨울·춘절 해외여행",
+   "posts": [
+    [
+     "3.5만 위안으로 유럽 40일, 게스트하우스 없이",
+     "5,162",
+     "https://www.rednote.com/explore/6af568c5000000002b035e33?xsec_token=ABYqvolnn7MvgxKpaWBFvZfUKy1y2nEHaNhyy0Y5yjEEc="
+    ],
+    [
+     "8,900위안 저가 단체여행으로 유럽, 할 만할까?",
+     "4,489",
+     "https://www.rednote.com/explore/6af51d210000000025008166?xsec_token=ABYqvolnn7MvgxKpaWBFvZfYq_cfecKkTbGtqhiPGNtGM="
+    ]
+   ],
+   "searches": [
+    [
+     "冬天出境游",
+     "겨울 해외여행"
+    ],
+    [
+     "支付宝出境游",
+     "알리페이 해외여행"
+    ],
+    [
+     "2027年春节出境游推荐",
+     "2027 춘절 해외여행 추천"
+    ]
+   ]
+  }
+ ],
+ "korea": [
+  {
+   "region": "한국 전체",
+   "trend": "여행 경비, 어느 도시가 좋은지",
+   "post": [
+    "제주 5박 4일 공략",
+    "1,659",
+    "https://www.rednote.com/explore/6addac83000000002c0323be?xsec_token=ABDnQX4ZgN8EqEi7th6XH0z3cj1VcuTlCMjxYCTqlxRaY="
+   ],
+   "searches": [
+    [
+     "去韩国一趟要花多少钱",
+     "한국 한 번 가는 데 얼마"
+    ],
+    [
+     "韩国旅游去哪个城市好玩",
+     "한국 어느 도시가 재밌나"
+    ]
+   ]
+  },
+  {
+   "region": "서울",
+   "trend": "가을 풍경, 필수 코스, 쇼핑",
+   "post": [
+    "처음 서울 오면 꼭 갈 5곳",
+    "164",
+    "https://www.rednote.com/explore/6ac48eec000000001401d47c?xsec_token=ABB_S3yQnw9MGsk7aiTcXyHmP4Z1THWHUGYRnMD9jUL1I="
+   ],
+   "searches": [
+    [
+     "首尔必去景点",
+     "서울 필수 명소"
+    ],
+    [
+     "首尔秋天",
+     "서울 가을"
+    ]
+   ]
+  },
+  {
+   "region": "부산",
+   "trend": "겨울 부산, 쇼핑 공략",
+   "post": [
+    "부산 쇼핑 공략: 면세지 공짜 아님",
+    "450",
+    "https://www.rednote.com/explore/6aaf977d0000000027017def?xsec_token=AB1Mwz7k8ve2fYGgipe2ElcB4Oea0RNpoE-EqvvscvaXE="
+   ],
+   "searches": [
+    [
+     "釜山冬天",
+     "부산 겨울"
+    ],
+    [
+     "釜山景点",
+     "부산 명소"
+    ]
+   ]
+  },
+  {
+   "region": "제주",
+   "trend": "바다 감성, 제주 코디 일기",
+   "post": [
+    "바람과 바다, 자유의 모양",
+    "1,870",
+    "https://www.rednote.com/explore/6afaacc5000000001802fe75?xsec_token=ABN5Hcn8ySBqzxEmQLnY5n2X4uVCghNkozdz886R42gBE="
+   ],
+   "searches": [
+    [
+     "济州岛美食",
+     "제주 맛집"
+    ],
+    [
+     "济州岛必去景点",
+     "제주 필수 명소"
+    ]
+   ]
+  }
+ ],
+ "dutyfree": [
+  {
+   "text": "크리스마스에 한국에서 뭘 사야 이득인지 묻는 글",
+   "post": [
+    "圣诞去小韩买什么，怎么买更划算",
+    "48",
+    "https://www.rednote.com/explore/6af60f780000000022038933?xsec_token=AB6dvKU8eHNIazx7w4py4SeuVabAz0xz--Qqg7yoIseJQ="
+   ]
+  },
+  {
+   "text": "명동 신세계·롯데 비교 글 — 신라 언급 없음",
+   "post": [
+    "明洞免税店：新世界乐天怎么买划算",
+    "109",
+    "https://www.rednote.com/explore/6acb93a9000000000a02472e?xsec_token=ABCtMsuzFZp0Xp9y3vsjb85pHW9ctw8Fji3ziS1b4ILo0="
+   ]
+  },
+  {
+   "text": "신라 공식 계정(新罗爱宝客免税店) 11월 샤넬 클렌저 증정",
+   "post": [
+    "11月请查收你的香奈儿初冬洁面礼",
+    "1,234",
+    "https://www.rednote.com/explore/6aed9e0a00000000100346ff?xsec_token=ABK77OvXnqPSPCP57WPWyTPyP0-ymBCnzllwhCFmNDocc="
+   ]
+  },
+  {
+   "text": "한국 쇼핑 결산 인증 (단기 여행객)",
+   "post": [
+    "特种兵小韩购物结算图",
+    "166",
+    "https://www.rednote.com/explore/6af7cfda00000000090224a8?xsec_token=AB9VFAqmZOv6CgI8zz9VnHLVCnZHetMsyk6zLC1E3zn5s="
+   ]
+  },
+  {
+   "text": "최근 한국 면세 특가 정리",
+   "post": [
+    "最近韩国免税的一些好价（自留版）",
+    "32",
+    "https://www.rednote.com/explore/6afcef06000000001603c752?xsec_token=ABcI7_dG5gVD93aT1eHdrPy2FElY3JL1ANmkUfGSWIV6Q="
+   ]
+  }
+ ],
+ "rising": [
+  [
+   "双11收官战报",
+   "11.11 마감 결산"
   ],
-  "rising": ["双11收官战报", "冬季叠穿", "新中式茶饮特调", "冬天出境游", "支付宝出境游", "男生护肤", "去韩国一趟要花多少钱", "威士忌推荐", "高端腕表"],
-  "insights": [
-    "명품 화장품 '브랜드별 대표 1품' 흐름 → 면세 기획전도 브랜드별 대표 1품 큐레이션",
-    "양생·남성 건강 관심 증가 → 건강식품·남성 뷰티 기획전 소재",
-    "'한국 여행 경비' 검색 증가 → 면세 절약 금액을 강조하는 콘텐츠",
-    "제품 정보가 댓글로 공유됨(본문 브랜드 표기 시 광고 규정 위반) → 댓글 속 제품명이 실제 구매 관심 지표"
+  [
+   "冬季叠穿",
+   "겨울 레이어드"
   ],
-  "notes": "일부 분야(stale 표시)는 최근 1주 필터가 적용되지 않아 이전 게시물이 포함됨"
+  [
+   "新中式茶饮特调",
+   "신중국풍 차 음료"
+  ],
+  [
+   "冬天出境游",
+   "겨울 해외여행"
+  ],
+  [
+   "支付宝出境游",
+   "알리페이 해외여행"
+  ],
+  [
+   "男生护肤",
+   "남성 스킨케어"
+  ],
+  [
+   "去韩国一趟要花多少钱",
+   "한국 한 번 가는 데 얼마"
+  ],
+  [
+   "威士忌推荐",
+   "위스키 추천"
+  ],
+  [
+   "高端腕表",
+   "고급 시계"
+  ]
+ ],
+ "notes": "일부 분야(stale 표시)는 최근 1주 필터가 적용되지 않아 이전 게시물이 포함됨"
 }
