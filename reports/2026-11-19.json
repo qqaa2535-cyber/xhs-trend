@@ -135,27 +135,45 @@
   }
  ],
  "brands": {
-  "명품": [
+  "글로벌 명품·뷰티": [
    "샤넬",
-   "오메가(컨스텔레이션)",
    "HOURGLASS",
-   "UD",
-   "Kylie"
+   "Urban Decay(UD)",
+   "Kylie Cosmetics",
+   "Huda Beauty",
+   "슈에무라"
   ],
-  "한국": [
-   "올리브영(채널)",
+  "K뷰티": [
    "isoi",
+   "메디힐",
    "VDL",
    "HOLIKA HOLIKA",
    "tocobo",
-   "메디힐(신라 행사 글)"
+   "ABOUT_TONE"
   ],
-  "중국": [
+  "C뷰티": [
    "GirlsCrush",
    "GIVERNY",
    "凹凸迷思",
    "橘朵",
-   "喜茶(HEYTEA)"
+   "ZENN.TH",
+   "果达儿",
+   "MIKIPLUM"
+  ],
+  "시계·디지털": [
+   "오메가(컨스텔레이션)",
+   "애플(애플워치)"
+  ],
+  "패션": [
+   "버버리"
+  ],
+  "F&B·주류": [
+   "喜茶(HEYTEA)",
+   "조니워커"
+  ],
+  "유통·채널": [
+   "올리브영",
+   "신라면세점"
   ]
  },
  "sections": [
@@ -329,17 +347,17 @@
   },
   {
    "name": "🍜 음식·맛집",
-   "trend": "중국 지방 길거리 음식 탐방 + 제주 갈비찜(문어 포함) 1.7만",
+   "trend": "중국 지방 도시 길거리 간식 탐방(1인당 비용 공개형)이 상위",
    "posts": [
-    [
-     "제주도 매운 갈비찜! 큰 문어까지",
-     "1.7만",
-     "https://www.rednote.com/explore/6af59f4e000000002b03e6d1?xsec_token=ABYqvolnn7MvgxKpaWBFvZfS5ere3KeM7qiiWc1tRLcBw="
-    ],
     [
      "광위안 길거리 특색 간식, 3인 얼마?",
      "1.8만",
      "https://www.rednote.com/explore/6aeb08c500000000030165ab?xsec_token=ABK-nTLSL92uOWyHiw2ZsR5V0BEVHi97PHjqY9iNweyxk="
+    ],
+    [
+     "산시 창즈 특색 간식 먹어보기",
+     "1.2만",
+     "https://www.rednote.com/explore/6af198280000000033021d23?xsec_token=ABSM9snyYf13pVbsF3eyJgVLfOA_Gr284HsRu83gwEJlQ="
     ]
    ],
    "searches": [
@@ -585,36 +603,39 @@
  ],
  "korea": [
   {
-   "region": "한국 전체",
-   "trend": "먹방형 여행 — 제주 갈비찜, 해변 철판 짜장, 이광수 추천 서울 맛집",
-   "post": [
-    "한국: 왕마늘 사고 해변 철판 누룽지 짜장면",
-    "1.2만",
-    "https://www.rednote.com/explore/6afae240000000002a013db4?xsec_token=ABN5Hcn8ySBqzxEmQLnY5n2QcswXL1qPZPvMq3neCDOgA="
+   "region": "🍽 맛집·먹방",
+   "places": [
+    "제주",
+    "서울",
+    "해변 지역"
    ],
-   "searches": [
+   "trend": "현지 음식 먹방이 한국 관련 글 반응 1위 — 제주 갈비찜(문어), 해변 철판 짜장, 서울 맛집 공략, 연예인 추천 배달",
+   "posts": [
     [
-     "韩国旅游",
-     "한국 여행"
+     "제주도 매운 갈비찜! 큰 문어까지",
+     "1.7만",
+     "https://www.rednote.com/explore/6af59f4e000000002b03e6d1?xsec_token=ABYqvolnn7MvgxKpaWBFvZfS5ere3KeM7qiiWc1tRLcBw="
     ],
     [
-     "韩国美食",
-     "한국 음식"
+     "한국: 왕마늘 사고 해변 철판 누룽지 짜장면",
+     "1.2만",
+     "https://www.rednote.com/explore/6afae240000000002a013db4?xsec_token=ABN5Hcn8ySBqzxEmQLnY5n2QcswXL1qPZPvMq3neCDOgA="
+    ],
+    [
+     "한국 10년 거주 블로거가 고른 서울 10대 맛집",
+     "8,066",
+     "https://www.rednote.com/explore/6afbb5a6000000002b02617a?xsec_token=ABOmrFfG5LNn9LYCCtrZWK3JEcYAlRhje4nr1sm2ouVZc="
+    ],
+    [
+     "이광수 인증 서울 맛집! 배달도 맛있다",
+     "4,574",
+     "https://www.rednote.com/explore/6af92bf3000000002500afa8?xsec_token=ABrCts3t1vBT0DxaK9Lc6rqaffMXL4xOytvYLeagG4XbM="
     ]
-   ]
-  },
-  {
-   "region": "서울",
-   "trend": "크리스마스 장식 시작, 연예인 목격담, 서울 10대 맛집",
-   "post": [
-    "서울 크리스마스 로딩 중",
-    "1.6만",
-    "https://www.rednote.com/explore/6af7d084000000002903f097?xsec_token=AB9VFAqmZOv6CgI8zz9VnHLVT4A3-p-eMLY0QTV9l_Rzg="
    ],
    "searches": [
     [
-     "首尔圣诞",
-     "서울 크리스마스"
+     "济州岛美食",
+     "제주 맛집"
     ],
     [
      "首尔美食攻略",
@@ -623,12 +644,75 @@
    ]
   },
   {
-   "region": "부산",
-   "trend": "해운대 출장 기록, 거제·경주 투어",
-   "post": [
-    "맞벌이 출장 기록｜부산 해운대 강추",
-    "2,305",
-    "https://www.rednote.com/explore/6afc022c000000001802f89f?xsec_token=ABcI7_dG5gVD93aT1eHdrPyycDkDj31grGvn09yAcbX48="
+   "region": "🎄 시즌·풍경",
+   "places": [
+    "서울",
+    "제주"
+   ],
+   "trend": "서울 크리스마스 장식 시작, 제주 바다 감성 사진·코디",
+   "posts": [
+    [
+     "서울 크리스마스 로딩 중",
+     "1.6만",
+     "https://www.rednote.com/explore/6af7d084000000002903f097?xsec_token=AB9VFAqmZOv6CgI8zz9VnHLVT4A3-p-eMLY0QTV9l_Rzg="
+    ],
+    [
+     "바람과 바다, 자유의 모양 (제주)",
+     "2,019",
+     "https://www.rednote.com/explore/6afaacc5000000001802fe75?xsec_token=ABN5Hcn8ySBqzxEmQLnY5n2blIKLPgvuvLThOaOwwexdE="
+    ],
+    [
+     "제주 코디 일기",
+     "1,388",
+     "https://www.rednote.com/explore/6af54472000000002a00e000?xsec_token=ABYqvolnn7MvgxKpaWBFvZfZzqh7uh3wPUnl-CP7JIhc0="
+    ]
+   ],
+   "searches": [
+    [
+     "Jeju穿搭",
+     "제주 코디"
+    ]
+   ]
+  },
+  {
+   "region": "⭐ 연예인·K컬처",
+   "places": [
+    "서울"
+   ],
+   "trend": "서울에서 연예인 목격 인증",
+   "posts": [
+    [
+     "연예인 우연히 만남",
+     "1.5만",
+     "https://www.rednote.com/explore/6afa7cd3000000002501d67a?xsec_token=ABN5Hcn8ySBqzxEmQLnY5n2Rhh0qrUubs9rQHxDV_8C5s="
+    ]
+   ],
+   "searches": [
+    [
+     "偶遇明星",
+     "연예인 목격"
+    ]
+   ]
+  },
+  {
+   "region": "🗺 서울 밖 지방 도시",
+   "places": [
+    "부산",
+    "거제",
+    "경주"
+   ],
+   "trend": "부산 해운대 출장 겸 여행, 거제·경주 인증",
+   "posts": [
+    [
+     "맞벌이 출장 기록｜부산 해운대 강추",
+     "2,305",
+     "https://www.rednote.com/explore/6afc022c000000001802f89f?xsec_token=ABcI7_dG5gVD93aT1eHdrPyycDkDj31grGvn09yAcbX48="
+    ],
+    [
+     "Rescene, 거제·경주 인증",
+     "381",
+     "https://www.rednote.com/explore/6af935300000000019039fa5?xsec_token=ABrCts3t1vBT0DxaK9Lc6rqfk1WagS-u98VCYIq-fgepg="
+    ]
    ],
    "searches": [
     [
@@ -638,25 +722,6 @@
     [
      "庆州",
      "경주"
-    ]
-   ]
-  },
-  {
-   "region": "제주",
-   "trend": "바다 감성 사진, 제주 코디 일기",
-   "post": [
-    "바람과 바다, 자유의 모양",
-    "2,019",
-    "https://www.rednote.com/explore/6afaacc5000000001802fe75?xsec_token=ABN5Hcn8ySBqzxEmQLnY5n2blIKLPgvuvLThOaOwwexdE="
-   ],
-   "searches": [
-    [
-     "济州岛",
-     "제주도"
-    ],
-    [
-     "Jeju穿搭",
-     "제주 코디"
     ]
    ]
   }
@@ -779,6 +844,5 @@
     "https://www.rednote.com/explore/6af7279e000000002a01a7c9?xsec_token=AB9VFAqmZOv6CgI8zz9VnHLSQ4k9wY3VIeW_AFFjo8mwU="
    ]
   }
- ],
- "notes": "전 분야 '최근 1주+좋아요순' 필터 적용됨. 오늘은 검색 페이지의 '大家都在搜' 목록이 노출되지 않아 searches·rising은 게시물 해시태그와 新罗免税 검색 필터 태그 기준으로 정리. 이번 주 검색 상위 면세 게시물에서 롯데·신세계 직접 언급은 확인되지 않음. 주류 분야는 반응 규모가 작음(최고 572)."
+ ]
 }

@@ -151,23 +151,40 @@
   }
  ],
  "brands": {
-  "명품": [
+  "글로벌 명품·뷰티": [
    "샤넬",
    "랑콤",
    "디올",
    "YSL",
-   "톰포드"
+   "톰포드",
+   "지방시"
   ],
-  "한국": [
+  "K뷰티": [
    "3CE",
    "Anua",
    "Dr.Althea",
-   "올리브영(채널)"
+   "colorgram"
   ],
-  "중국": [
+  "C뷰티": [
    "Joocyee(酵色)",
    "Flower Knows(花知晓)",
-   "料堆堆"
+   "料堆堆",
+   "GirlsCrush"
+  ],
+  "J뷰티": [
+   "CEZANNE"
+  ],
+  "시계": [
+   "오메가(컨스텔레이션)"
+  ],
+  "F&B": [
+   "喜茶(HEYTEA)"
+  ],
+  "유통·채널": [
+   "올리브영",
+   "신라면세점",
+   "롯데면세점",
+   "신세계면세점"
   ]
  },
  "sections": [
@@ -535,12 +552,18 @@
  ],
  "korea": [
   {
-   "region": "한국 전체",
-   "trend": "여행 경비, 어느 도시가 좋은지",
-   "post": [
-    "제주 5박 4일 공략",
-    "1,659",
-    "https://www.rednote.com/explore/6addac83000000002c0323be?xsec_token=ABDnQX4ZgN8EqEi7th6XH0z3cj1VcuTlCMjxYCTqlxRaY="
+   "region": "💰 여행 경비·일정",
+   "places": [
+    "제주",
+    "한국 전체"
+   ],
+   "trend": "'한국 한 번 가는 데 얼마', 어느 도시가 좋은지 — 경비·일정 공략",
+   "posts": [
+    [
+     "제주 5박 4일 공략",
+     "1,659",
+     "https://www.rednote.com/explore/6addac83000000002c0323be?xsec_token=ABDnQX4ZgN8EqEi7th6XH0z3cj1VcuTlCMjxYCTqlxRaY="
+    ]
    ],
    "searches": [
     [
@@ -554,12 +577,23 @@
    ]
   },
   {
-   "region": "서울",
-   "trend": "가을 풍경, 필수 코스, 쇼핑",
-   "post": [
-    "처음 서울 오면 꼭 갈 5곳",
-    "164",
-    "https://www.rednote.com/explore/6ac48eec000000001401d47c?xsec_token=ABB_S3yQnw9MGsk7aiTcXyHmP4Z1THWHUGYRnMD9jUL1I="
+   "region": "📍 필수 코스·풍경",
+   "places": [
+    "서울",
+    "제주"
+   ],
+   "trend": "서울 가을 풍경·필수 코스, 제주 바다 감성",
+   "posts": [
+    [
+     "처음 서울 오면 꼭 갈 5곳",
+     "164",
+     "https://www.rednote.com/explore/6ac48eec000000001401d47c?xsec_token=ABB_S3yQnw9MGsk7aiTcXyHmP4Z1THWHUGYRnMD9jUL1I="
+    ],
+    [
+     "바람과 바다, 자유의 모양",
+     "1,870",
+     "https://www.rednote.com/explore/6afaacc5000000001802fe75?xsec_token=ABN5Hcn8ySBqzxEmQLnY5n2X4uVCghNkozdz886R42gBE="
+    ]
    ],
    "searches": [
     [
@@ -569,16 +603,29 @@
     [
      "首尔秋天",
      "서울 가을"
+    ],
+    [
+     "济州岛美食",
+     "제주 맛집"
+    ],
+    [
+     "济州岛必去景点",
+     "제주 필수 명소"
     ]
    ]
   },
   {
-   "region": "부산",
-   "trend": "겨울 부산, 쇼핑 공략",
-   "post": [
-    "부산 쇼핑 공략: 면세지 공짜 아님",
-    "450",
-    "https://www.rednote.com/explore/6aaf977d0000000027017def?xsec_token=AB1Mwz7k8ve2fYGgipe2ElcB4Oea0RNpoE-EqvvscvaXE="
+   "region": "🛍 쇼핑",
+   "places": [
+    "부산"
+   ],
+   "trend": "겨울 부산 쇼핑 공략 — '면세지 = 공짜 아님' 주의",
+   "posts": [
+    [
+     "부산 쇼핑 공략: 면세지 공짜 아님",
+     "450",
+     "https://www.rednote.com/explore/6aaf977d0000000027017def?xsec_token=AB1Mwz7k8ve2fYGgipe2ElcB4Oea0RNpoE-EqvvscvaXE="
+    ]
    ],
    "searches": [
     [
@@ -588,25 +635,6 @@
     [
      "釜山景点",
      "부산 명소"
-    ]
-   ]
-  },
-  {
-   "region": "제주",
-   "trend": "바다 감성, 제주 코디 일기",
-   "post": [
-    "바람과 바다, 자유의 모양",
-    "1,870",
-    "https://www.rednote.com/explore/6afaacc5000000001802fe75?xsec_token=ABN5Hcn8ySBqzxEmQLnY5n2X4uVCghNkozdz886R42gBE="
-   ],
-   "searches": [
-    [
-     "济州岛美食",
-     "제주 맛집"
-    ],
-    [
-     "济州岛必去景点",
-     "제주 필수 명소"
     ]
    ]
   }
