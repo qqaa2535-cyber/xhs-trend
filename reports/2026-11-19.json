@@ -136,44 +136,141 @@
  ],
  "brands": {
   "글로벌 명품·뷰티": [
-   "샤넬",
-   "HOURGLASS",
-   "Urban Decay(UD)",
-   "Kylie Cosmetics",
-   "Huda Beauty",
-   "슈에무라"
+   {
+    "name": "샤넬",
+    "why": "'샤넬 숨은 명품' 글 — 미니 향수·N°5 비누·립 펜슬·블러셔 소개, 구매처 문의 댓글",
+    "url": "https://www.rednote.com/explore/6af91269000000002a00ea5c?xsec_token=ABrCts3t1vBT0DxaK9Lc6rqVkfHKpxIc2pNBpBsJd5Z7U="
+   },
+   {
+    "name": "HOURGLASS",
+    "why": "컨실러(살몬) — '요즘 애용 색조' 메이크업 영상(좋아요 1.2만) 댓글 제품 정리에 등장",
+    "url": "https://www.rednote.com/explore/6af99787000000002601009b?xsec_token=ABrCts3t1vBT0DxaK9Lc6rqZ2EmRNcylJ7d5q2oNjlU0Y="
+   },
+   {
+    "name": "Kylie Cosmetics",
+    "why": "틴티드 크림 #2.5N — '요즘 애용 색조' 메이크업 영상(좋아요 1.2만) 댓글 제품 정리에 등장",
+    "url": "https://www.rednote.com/explore/6af99787000000002601009b?xsec_token=ABrCts3t1vBT0DxaK9Lc6rqZ2EmRNcylJ7d5q2oNjlU0Y="
+   },
+   {
+    "name": "Urban Decay(UD)",
+    "why": "메이크업 픽서 — '요즘 애용 색조' 메이크업 영상(좋아요 1.2만) 댓글 제품 정리에 등장",
+    "url": "https://www.rednote.com/explore/6af99787000000002601009b?xsec_token=ABrCts3t1vBT0DxaK9Lc6rqZ2EmRNcylJ7d5q2oNjlU0Y="
+   },
+   {
+    "name": "Huda Beauty",
+    "why": "파우더 — '요즘 애용 색조' 메이크업 영상(좋아요 1.2만) 댓글 제품 정리에 등장",
+    "url": "https://www.rednote.com/explore/6af99787000000002601009b?xsec_token=ABrCts3t1vBT0DxaK9Lc6rqZ2EmRNcylJ7d5q2oNjlU0Y="
+   },
+   {
+    "name": "슈에무라",
+    "why": "아이브로우 펜슬 — '요즘 애용 색조' 메이크업 영상(좋아요 1.2만) 댓글 제품 정리에 등장",
+    "url": "https://www.rednote.com/explore/6af99787000000002601009b?xsec_token=ABrCts3t1vBT0DxaK9Lc6rqZ2EmRNcylJ7d5q2oNjlU0Y="
+   }
   ],
   "K뷰티": [
-   "isoi",
-   "메디힐",
-   "VDL",
-   "HOLIKA HOLIKA",
-   "tocobo",
-   "ABOUT_TONE"
+   {
+    "name": "isoi",
+    "why": "올리브영 마스크팩 후기(좋아요 6.4천·저장 4천), '어디서 사요' 댓글 다수",
+    "url": "https://www.rednote.com/explore/6af59c4a000000002b039716?xsec_token=ABYqvolnn7MvgxKpaWBFvZfZGC7dAK8hMcdBW0npjs90g="
+   },
+   {
+    "name": "메디힐",
+    "why": "신라면세점 메디힐 행사 '구매 경쟁 치열' 글",
+    "url": "https://www.rednote.com/explore/6af51bde000000002b0012c2?xsec_token=ABYqvolnn7MvgxKpaWBFvZfd55y4uxg6xtAKGMgrmzFyU="
+   },
+   {
+    "name": "VDL",
+    "why": "리퀴드 블러셔 — '요즘 애용 색조' 메이크업 영상(좋아요 1.2만) 댓글 제품 정리에 등장",
+    "url": "https://www.rednote.com/explore/6af99787000000002601009b?xsec_token=ABrCts3t1vBT0DxaK9Lc6rqZ2EmRNcylJ7d5q2oNjlU0Y="
+   },
+   {
+    "name": "HOLIKA HOLIKA",
+    "why": "9색 팔레트 #16 — '요즘 애용 색조' 메이크업 영상(좋아요 1.2만) 댓글 제품 정리에 등장",
+    "url": "https://www.rednote.com/explore/6af99787000000002601009b?xsec_token=ABrCts3t1vBT0DxaK9Lc6rqZ2EmRNcylJ7d5q2oNjlU0Y="
+   },
+   {
+    "name": "tocobo",
+    "why": "립마스크 — '요즘 애용 색조' 메이크업 영상(좋아요 1.2만) 댓글 제품 정리에 등장",
+    "url": "https://www.rednote.com/explore/6af99787000000002601009b?xsec_token=ABrCts3t1vBT0DxaK9Lc6rqZ2EmRNcylJ7d5q2oNjlU0Y="
+   },
+   {
+    "name": "ABOUT_TONE",
+    "why": "블러셔 — '요즘 애용 색조' 메이크업 영상(좋아요 1.2만) 댓글 제품 정리에 등장",
+    "url": "https://www.rednote.com/explore/6af99787000000002601009b?xsec_token=ABrCts3t1vBT0DxaK9Lc6rqZ2EmRNcylJ7d5q2oNjlU0Y="
+   }
   ],
   "C뷰티": [
-   "GirlsCrush",
-   "GIVERNY",
-   "凹凸迷思",
-   "橘朵",
-   "ZENN.TH",
-   "果达儿",
-   "MIKIPLUM"
+   {
+    "name": "GirlsCrush",
+    "why": "컨실러 #H03 — '요즘 애용 색조' 메이크업 영상(좋아요 1.2만) 댓글 제품 정리에 등장",
+    "url": "https://www.rednote.com/explore/6af99787000000002601009b?xsec_token=ABrCts3t1vBT0DxaK9Lc6rqZ2EmRNcylJ7d5q2oNjlU0Y="
+   },
+   {
+    "name": "GIVERNY",
+    "why": "파운데이션 — '요즘 애용 색조' 메이크업 영상(좋아요 1.2만) 댓글 제품 정리에 등장",
+    "url": "https://www.rednote.com/explore/6af99787000000002601009b?xsec_token=ABrCts3t1vBT0DxaK9Lc6rqZ2EmRNcylJ7d5q2oNjlU0Y="
+   },
+   {
+    "name": "凹凸迷思",
+    "why": "컨투어 스틱 — '요즘 애용 색조' 메이크업 영상(좋아요 1.2만) 댓글 제품 정리에 등장",
+    "url": "https://www.rednote.com/explore/6af99787000000002601009b?xsec_token=ABrCts3t1vBT0DxaK9Lc6rqZ2EmRNcylJ7d5q2oNjlU0Y="
+   },
+   {
+    "name": "橘朵",
+    "why": "블러셔·하이라이터 — '요즘 애용 색조' 메이크업 영상(좋아요 1.2만) 댓글 제품 정리에 등장",
+    "url": "https://www.rednote.com/explore/6af99787000000002601009b?xsec_token=ABrCts3t1vBT0DxaK9Lc6rqZ2EmRNcylJ7d5q2oNjlU0Y="
+   },
+   {
+    "name": "ZENN.TH",
+    "why": "프라이머 — '요즘 애용 색조' 메이크업 영상(좋아요 1.2만) 댓글 제품 정리에 등장",
+    "url": "https://www.rednote.com/explore/6af99787000000002601009b?xsec_token=ABrCts3t1vBT0DxaK9Lc6rqZ2EmRNcylJ7d5q2oNjlU0Y="
+   },
+   {
+    "name": "果达儿",
+    "why": "선베이스 — '요즘 애용 색조' 메이크업 영상(좋아요 1.2만) 댓글 제품 정리에 등장",
+    "url": "https://www.rednote.com/explore/6af99787000000002601009b?xsec_token=ABrCts3t1vBT0DxaK9Lc6rqZ2EmRNcylJ7d5q2oNjlU0Y="
+   },
+   {
+    "name": "MIKIPLUM",
+    "why": "젤 아이라이너 — '요즘 애용 색조' 메이크업 영상(좋아요 1.2만) 댓글 제품 정리에 등장",
+    "url": "https://www.rednote.com/explore/6af99787000000002601009b?xsec_token=ABrCts3t1vBT0DxaK9Lc6rqZ2EmRNcylJ7d5q2oNjlU0Y="
+   }
   ],
   "시계·디지털": [
-   "오메가(컨스텔레이션)",
-   "애플(애플워치)"
-  ],
-  "패션": [
-   "버버리"
+   {
+    "name": "오메가",
+    "why": "컨스텔레이션 착용샷이 '腕表' 검색 1위(2,622)",
+    "url": "https://www.rednote.com/explore/6af883b1000000001f017b5d?xsec_token=ABmzHQ8tpXyim5btlNv-1J0cOdsO7zUEtAOq6uWfgRFvw="
+   },
+   {
+    "name": "애플",
+    "why": "애플워치 페이스 모음 글(1.7만)",
+    "url": "https://www.rednote.com/explore/6af908ee000000002a03b4c6?xsec_token=ABrCts3t1vBT0DxaK9Lc6rqaKLtMs9HdJ--xqBQfLMPEs="
+   }
   ],
   "F&B·주류": [
-   "喜茶(HEYTEA)",
-   "조니워커"
+   {
+    "name": "喜茶(HEYTEA)",
+    "why": "'선전의 상징' 글(2,596)·뉴욕 Matcha Lab 오픈 화제",
+    "url": "https://www.rednote.com/explore/6afc27ea00000000230122bb?xsec_token=ABcI7_dG5gVD93aT1eHdrPyy7u_XKSMtzbV9RQseW8U-A="
+   },
+   {
+    "name": "조니워커",
+    "why": "'매일 술 하나 알기' 조니워커 골드 소개",
+    "url": "https://www.rednote.com/explore/6af70f0a000000002b00158c?xsec_token=AB9VFAqmZOv6CgI8zz9VnHLZ6PYTz9U2ME6w55Wluj3qw="
+   }
   ],
   "유통·채널": [
-   "올리브영",
-   "신라면세점"
+   {
+    "name": "올리브영",
+    "why": "올리브영 단품 후기(마스크팩·다크서클)가 한국 화장품 검색 상위",
+    "url": "https://www.rednote.com/explore/6af59c4a000000002b039716?xsec_token=ABYqvolnn7MvgxKpaWBFvZfZGC7dAK8hMcdBW0npjs90g="
+   },
+   {
+    "name": "신라면세점",
+    "why": "블랙프라이데이 면세 '완주' 인증·모델(综咪) 쇼핑 글",
+    "url": "https://www.rednote.com/explore/6af84d24000000002500ac3f?xsec_token=ABmzHQ8tpXyim5btlNv-1J0XA-n1GIcLU6pnUGwP7T4to="
+   }
   ]
  },
  "sections": [

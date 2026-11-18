@@ -152,39 +152,118 @@
  ],
  "brands": {
   "글로벌 명품·뷰티": [
-   "샤넬",
-   "랑콤",
-   "디올",
-   "YSL",
-   "톰포드",
-   "지방시"
+   {
+    "name": "샤넬",
+    "why": "'샤넬 필수템 7개' 글 + 립 리스트(443) 등장, '한국 대리구매' 댓글",
+    "url": "https://www.rednote.com/explore/6af6fad5000000002b006f63?xsec_token=AB6dvKU8eHNIazx7w4py4SeioMN7ej-iMuOlSKy7Qu6eE="
+   },
+   {
+    "name": "랑콤",
+    "why": "립 702 — 가장 많이 문의된 색상 ('2026 명품 신상 립 리스트' 글 — 색상번호 문의 댓글)",
+    "url": "https://www.rednote.com/explore/6af5932b000000002301123a?xsec_token=ABYqvolnn7MvgxKpaWBFvZfeaScXFrOWqvM_OtT9lmyVk="
+   },
+   {
+    "name": "디올",
+    "why": "립글로스 200 — '2026 명품 신상 립 리스트' 글 — 색상번호 문의 댓글",
+    "url": "https://www.rednote.com/explore/6af5932b000000002301123a?xsec_token=ABYqvolnn7MvgxKpaWBFvZfeaScXFrOWqvM_OtT9lmyVk="
+   },
+   {
+    "name": "YSL",
+    "why": "립 1961 — '2026 명품 신상 립 리스트' 글 — 색상번호 문의 댓글",
+    "url": "https://www.rednote.com/explore/6af5932b000000002301123a?xsec_token=ABYqvolnn7MvgxKpaWBFvZfeaScXFrOWqvM_OtT9lmyVk="
+   },
+   {
+    "name": "톰포드",
+    "why": "TF17/TF03 — '2026 명품 신상 립 리스트' 글 — 색상번호 문의 댓글",
+    "url": "https://www.rednote.com/explore/6af5932b000000002301123a?xsec_token=ABYqvolnn7MvgxKpaWBFvZfeaScXFrOWqvM_OtT9lmyVk="
+   },
+   {
+    "name": "지방시",
+    "why": "프라이머 — '9~10월 계속 쓴 은인 색조템' 글(5.5천) 제품 목록에 등장",
+    "url": "https://www.rednote.com/explore/6af9ae4100000000240331bd?xsec_token=ABrCts3t1vBT0DxaK9Lc6rqXkLvBctYKvsDTMNRPbrHGQ="
+   }
   ],
   "K뷰티": [
-   "3CE",
-   "Anua",
-   "Dr.Althea",
-   "colorgram"
+   {
+    "name": "3CE",
+    "why": "쿠로미 시리즈 블러셔 — '9~10월 계속 쓴 은인 색조템' 글(5.5천) 제품 목록에 등장",
+    "url": "https://www.rednote.com/explore/6af9ae4100000000240331bd?xsec_token=ABrCts3t1vBT0DxaK9Lc6rqXkLvBctYKvsDTMNRPbrHGQ="
+   },
+   {
+    "name": "Anua",
+    "why": "물광 에센스 — '9~10월 계속 쓴 은인 색조템' 글(5.5천) 제품 목록에 등장",
+    "url": "https://www.rednote.com/explore/6af9ae4100000000240331bd?xsec_token=ABrCts3t1vBT0DxaK9Lc6rqXkLvBctYKvsDTMNRPbrHGQ="
+   },
+   {
+    "name": "Dr.Althea",
+    "why": "345 미스트 — '9~10월 계속 쓴 은인 색조템' 글(5.5천) 제품 목록에 등장",
+    "url": "https://www.rednote.com/explore/6af9ae4100000000240331bd?xsec_token=ABrCts3t1vBT0DxaK9Lc6rqXkLvBctYKvsDTMNRPbrHGQ="
+   },
+   {
+    "name": "colorgram",
+    "why": "'브랜드 소개 시리즈' 글",
+    "url": "https://www.rednote.com/explore/6afaca69000000001c032fbf?xsec_token=ABN5Hcn8ySBqzxEmQLnY5n2RPAhuGl6vIN8CsVyVc8XAM="
+   }
   ],
   "C뷰티": [
-   "Joocyee(酵色)",
-   "Flower Knows(花知晓)",
-   "料堆堆",
-   "GirlsCrush"
+   {
+    "name": "Joocyee(酵色)",
+    "why": "블러셔 240·립 561 — '9~10월 계속 쓴 은인 색조템' 글(5.5천) 제품 목록에 등장",
+    "url": "https://www.rednote.com/explore/6af9ae4100000000240331bd?xsec_token=ABrCts3t1vBT0DxaK9Lc6rqXkLvBctYKvsDTMNRPbrHGQ="
+   },
+   {
+    "name": "Flower Knows(花知晓)",
+    "why": "아이섀도 01 — '9~10월 계속 쓴 은인 색조템' 글(5.5천) 제품 목록에 등장",
+    "url": "https://www.rednote.com/explore/6af9ae4100000000240331bd?xsec_token=ABrCts3t1vBT0DxaK9Lc6rqXkLvBctYKvsDTMNRPbrHGQ="
+   },
+   {
+    "name": "料堆堆",
+    "why": "파운데이션 — '9~10월 계속 쓴 은인 색조템' 글(5.5천) 제품 목록에 등장",
+    "url": "https://www.rednote.com/explore/6af9ae4100000000240331bd?xsec_token=ABrCts3t1vBT0DxaK9Lc6rqXkLvBctYKvsDTMNRPbrHGQ="
+   },
+   {
+    "name": "GirlsCrush",
+    "why": "하이라이터 — '9~10월 계속 쓴 은인 색조템' 글(5.5천) 제품 목록에 등장",
+    "url": "https://www.rednote.com/explore/6af9ae4100000000240331bd?xsec_token=ABrCts3t1vBT0DxaK9Lc6rqXkLvBctYKvsDTMNRPbrHGQ="
+   }
   ],
   "J뷰티": [
-   "CEZANNE"
+   {
+    "name": "CEZANNE",
+    "why": "하이라이트 팩트 — '9~10월 계속 쓴 은인 색조템' 글(5.5천) 제품 목록에 등장",
+    "url": "https://www.rednote.com/explore/6af9ae4100000000240331bd?xsec_token=ABrCts3t1vBT0DxaK9Lc6rqXkLvBctYKvsDTMNRPbrHGQ="
+   }
   ],
   "시계": [
-   "오메가(컨스텔레이션)"
+   {
+    "name": "오메가",
+    "why": "컨스텔레이션 착용샷",
+    "url": "https://www.rednote.com/explore/6af883b1000000001f017b5d?xsec_token=ABmzHQ8tpXyim5btlNv-1J0bimzxhMNUore9DLDCWk5Ls="
+   }
   ],
   "F&B": [
-   "喜茶(HEYTEA)"
+   {
+    "name": "喜茶(HEYTEA)",
+    "why": "뉴욕 세계 첫 Matcha Lab 오픈 글",
+    "url": "https://www.rednote.com/explore/6af551a4000000002301294e?xsec_token=ABYqvolnn7MvgxKpaWBFvZfbEAbBvczCiyrMKKU8ARiL0="
+   }
   ],
   "유통·채널": [
-   "올리브영",
-   "신라면세점",
-   "롯데면세점",
-   "신세계면세점"
+   {
+    "name": "올리브영",
+    "why": "한국 화장품 검색어 '韩国oliveyoung'·'oy必买护肤品' 상위",
+    "url": "https://www.rednote.com/search_result?keyword=%E9%9F%A9%E5%9B%BDoliveyoung"
+   },
+   {
+    "name": "신라면세점",
+    "why": "공식 계정 11월 샤넬 클렌저 증정 글",
+    "url": "https://www.rednote.com/explore/6aed9e0a00000000100346ff?xsec_token=ABK77OvXnqPSPCP57WPWyTPyP0-ymBCnzllwhCFmNDocc="
+   },
+   {
+    "name": "롯데·신세계면세점",
+    "why": "명동 신세계·롯데 비교 글",
+    "url": "https://www.rednote.com/explore/6acb93a9000000000a02472e?xsec_token=ABCtMsuzFZp0Xp9y3vsjb85pHW9ctw8Fji3ziS1b4ILo0="
+   }
   ]
  },
  "sections": [

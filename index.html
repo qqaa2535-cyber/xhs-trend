@@ -49,6 +49,7 @@ footer{color:var(--sub);font-size:12px;text-align:center;padding:24px 0 40px}
 .rl .q{font-weight:600;font-size:14px}.rl .q .ko{font-weight:400;color:var(--sub);margin-left:6px;font-size:13px}
 .rl .d{font-size:13px;margin:4px 0 2px;color:#333}.rl .p{font-size:12px}
 .dup{font-size:11px;color:var(--sub);background:var(--bg);border-radius:4px;padding:1px 5px;margin-left:4px;white-space:nowrap}
+.bl{list-style:none;padding:0;margin:0}.bl li{padding:5px 0;border-bottom:1px dashed var(--line);font-size:14px}.bl li:last-child{border-bottom:0}.bl .d{font-size:12px;color:var(--sub);margin-top:1px}
 .mstat{display:none;font-size:12px;color:#444;margin-top:3px;white-space:nowrap}
 @media(max-width:640px){.wrap{padding:0 12px}h1{font-size:17px}.top{padding:10px 0}.hot .num{display:none}.hot .mstat{display:block}.hot td.t{min-width:0}.hot th:nth-child(2),.hot td:nth-child(2){padding-left:2px;padding-right:2px}section{padding:16px 14px;margin:12px 0}.grid,.rl{grid-template-columns:1fr}table{font-size:13px}}
 </style>
@@ -64,7 +65,7 @@ footer{color:var(--sub);font-size:12px;text-align:center;padding:24px 0 40px}
   </nav>
 </div></header>
 <main class="wrap" id="app"><div class="empty">불러오는 중…</div></main>
-<footer class="wrap">출처: 샤오홍슈(rednote.com) 공개 게시물 · 매주 월~금 오전 7시 자동 갱신 · 좋아요 수는 수집 시점 기준</footer>
+<footer class="wrap">게시물 링크가 '安全限制' 등으로 안 열리면 샤오홍슈에 로그인한 브라우저(Safari·Chrome)나 샤오홍슈 앱에서 열어 주세요.<br>출처: 샤오홍슈(rednote.com) 공개 게시물 · 매주 월~금 오전 7시 자동 갱신 · 좋아요 수는 수집 시점 기준</footer>
 <script>
 const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const link=(t,u)=>u?`<a href="${esc(u)}" target="_blank" rel="noopener">${esc(t)}</a>`:esc(t);
@@ -82,7 +83,8 @@ function render(R){
   h.push(`<section id="summary"><h2>① 오늘의 핵심 — ${esc(R.date)}</h2><ul>${R.summary.map(s=>`<li>${esc(s)}</li>`).join('')}</ul></section>`);
   h.push(`<section id="hot"><h2>② 🔥 HOT 게시물 TOP 5 <span class="orig">(전 분야 · 최근 7일 · 좋아요순)</span></h2><div class="tw"><table class="hot"><tr><th>#</th><th>분야</th><th>게시물 (한국어 / 중국어 원문)</th><th class="num">좋아요</th><th class="num">저장</th><th class="num">댓글</th><th class="num">게시</th></tr>${R.hot.map((p,i)=>`<tr><td>${i+1}</td><td><span class="tag">${esc(p.cat)}</span></td><td class="t">${link(p.title,p.url)}<div class="orig">${esc(p.orig||'')}</div><div class="mstat">❤️ ${esc(p.likes)} · ⭐ ${esc(p.saves||'-')} · 💬 ${esc(p.comments||'-')} · ${esc(p.date)}</div></td><td class="num">${esc(p.likes)}</td><td class="num">${esc(p.saves||'-')}</td><td class="num">${esc(p.comments||'-')}</td><td class="num">${esc(p.date)}</td></tr>`).join('')}</table></div></section>`);
   h.push(`<section id="products"><h2>③ 🏆 인기글 + 언급 제품</h2>${R.products.map((p,i)=>`<div class="prod"><h3>${i+1}. ${link(p.title,p.url)}${hotIds.has(pid(p.url))?`<span class="dup">HOT ${hotIds.get(pid(p.url))}위</span>`:''}</h3><div class="stats">❤️ ${esc(p.stats.likes)} · ⭐ 저장 ${esc(p.stats.saves)} · 💬 ${esc(p.stats.comments)} &nbsp; <span class="orig">${esc(p.tags||'')}</span></div><div class="tw"><table>${p.items.map(r=>`<tr><th style="width:90px;white-space:nowrap">${esc(r[0])}</th><td>${esc(r[1])}</td></tr>`).join('')}</table></div>${p.note?`<div class="note">${esc(p.note)}</div>`:''}</div>`).join('')}</section>`);
-  h.push(`<section id="brands" class="brands"><h2>④ 📊 오늘 언급된 브랜드 <span class="orig">(수집한 게시물·댓글 전체 기준, 업종별)</span></h2>${Object.entries(R.brands).map(([k,v])=>`<div><b>${esc(k)}</b> &nbsp;${v.map(b=>chip(b)).join('')}</div>`).join('')}</section>`);
+  const bitem=b=>typeof b==='string'?`<li><b>${esc(b)}</b></li>`:`<li><b>${link(b.name,b.url)}</b>${b.why?`<div class="d">${esc(b.why)}</div>`:''}</li>`;
+  h.push(`<section id="brands"><h2>④ 📊 오늘 언급된 브랜드 <span class="orig">(브랜드명을 누르면 언급된 게시물로 이동)</span></h2><div class="grid">${Object.entries(R.brands).map(([k,v])=>`<div class="card"><h3>${esc(k)}</h3><ul class="bl">${v.map(bitem).join('')}</ul></div>`).join('')}</div></section>`);
   h.push(`<section id="sections"><h2>⑤ 분야별 트렌드</h2><div class="grid">${R.sections.map(s=>{let ps=s.posts||[];const fresh=ps.filter(p=>!seen(pid(p[2])));if(fresh.length)ps=fresh;const ch=(s.searches||[]).filter(q=>!rq.has(Array.isArray(q)?q[0]:q));return `<div class="card"><h3>${esc(s.name)}${s.stale?'<span class="stale">최근 1주 외 포함</span>':''}</h3><p>${esc(s.trend)}</p>${ps.map(p=>`<div style="font-size:13px">▸ ${plink(p)}</div>`).join('')}${ch.length?`<div style="margin-top:6px">${ch.map(chip).join('')}</div>`:''}</div>`}).join('')}</div></section>`);
   h.push(`<section id="korea"><h2>⑥ 🇰🇷 한국 여행 <span class="orig">(이번 주 한국 관련 글을 주제별로 분류)</span></h2><div class="grid">${R.korea.map(k=>`<div class="card"><h3>${esc(k.region)}</h3><p>${esc(k.trend)}</p>${k.places?`<div style="margin-bottom:4px">${k.places.map(x=>`<span class="tag">${esc(x)}</span>`).join('')}</div>`:''}${(k.posts||[k.post]).filter(Boolean).map(p=>`<div style="font-size:13px">▸ ${plink(p)}</div>`).join('')}<div style="margin-top:6px">${(k.searches||[]).filter(q=>!rq.has(Array.isArray(q)?q[0]:q)).map(chip).join('')}</div></div>`).join('')}</div></section>`);
   h.push(`<section id="dutyfree"><h2>⑦ 면세 관련</h2><ul class="dl">${R.dutyfree.map(d=>typeof d==='string'?`<li>${esc(d)}</li>`:`<li>${esc(d.text)}<div style="font-size:13px">▸ ${plink(d.post)}</div></li>`).join('')}</ul></section>`);
