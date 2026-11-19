@@ -944,12 +944,12 @@
  ],
  "payback": {
   "summary": [
-   "오늘(11/19) 서울 명품 페이백: 생로랑 31%, 몽클레르·막스마라 28%, 론진 23%, 오메가 19%, 샤넬 9%, 루이비통 3.5%+쿠폰",
-   "오늘 부산: 롯데면세점 서면점은 전 브랜드 페이백, 신세계백화점 센텀은 LV·반클리프·티파니만",
-   "면세점별 비교(오늘 표 없음 → 어제 11/18 기준): 화장품 기본 아이파크 26.5% > 현대·신라 18~20% > 롯데 17% > 신세계 15.5%, 명품 기본은 신라 8%로 낮은 편",
-   "일본(오늘 표 없음 → 어제 11/18 기준): 드럭스토어 5~7%, 에디온 8%, 백화점 3% + 면세 환급 별도"
+   "신라 vs 타사 차이(11/18 면세점별 표): 명품 기본 신라 8% vs 아이파크 18.5%(−10.5p), 화장품 기본 신라 18% vs 아이파크 26.5%(−8.5p)",
+   "브랜드별 차이 큰 순: 생로랑 신라 24% vs 현대 31%(−7p), 코치 22% vs 현대 28%(−6p), FILA 24% vs 아이파크 28.5%(−4.5p), 버버리 30% vs 롯데 33%(−3p)",
+   "오늘(11/19) 서울 명품 페이백: 생로랑 31%, 몽클레르·막스마라 28%, 오메가 19%, 샤넬 9%",
+   "일본(오늘 표 없음 → 11/18): 드럭스토어 5~7%, 에디온 8%, 백화점 3% + 면세 환급 별도"
   ],
-  "note": "리베이트 대행사(返点公司)가 샤오홍슈에 올린 율표 기준(면세점 공식 요율 아님). 오늘 올라온 표를 우선 쓰고, 오늘 표가 없는 항목만 어제 자료로 채움.",
+  "note": "리베이트 대행사(返点公司)가 샤오홍슈에 올린 율표 기준(면세점 공식 요율 아님). 오늘 올라온 표 중 작성자 팔로워·좋아요가 많은 것을 우선 쓰고, 오늘 표가 없는 항목만 어제 자료로 채움.",
   "groups": [
    {
     "region": "🇰🇷 한국 면세점 (서울: 롯데 명동·신라 서울·신세계 명동·현대 서울·HDC신라 아이파크)",
@@ -959,7 +959,10 @@
       "src": [
        "11月19号首尔免税店最新热门奢侈品返点政策",
        "11-19",
-       "https://www.rednote.com/explore/6afe49830000000018025ce7?xsec_token=ABDY3ouCeUbrsmf6QUSb7T4BSefIXmiPYQMj5wnhjPouM="
+       "https://www.rednote.com/explore/6afe49830000000018025ce7?xsec_token=ABDY3ouCeUbrsmf6QUSb7T4BSefIXmiPYQMj5wnhjPouM=",
+       "韩国游首尔济州现场返点",
+       "880",
+       "6"
       ],
       "cols": [
        "브랜드",
@@ -1048,7 +1051,10 @@
       "src": [
        "釜山乐天免税店、新世界百货最新返政策",
        "11-19",
-       "https://www.rednote.com/explore/6afe55f4000000002b03e24b?xsec_token=ABDY3ouCeUbrsmf6QUSb7T4EuC6kaEFOOVNMntie4udt8="
+       "https://www.rednote.com/explore/6afe55f4000000002b03e24b?xsec_token=ABDY3ouCeUbrsmf6QUSb7T4EuC6kaEFOOVNMntie4udt8=",
+       "韩国金卡现场返点",
+       "15.7만",
+       "-"
       ],
       "cols": [
        "매장",
@@ -1075,7 +1081,10 @@
       "src": [
        "韩国免税店买热门品牌，先翻这份返点榜",
        "11-18",
-       "https://www.rednote.com/explore/6afd6dc20000000023012d56?xsec_token=ABq95ANohnKaAsKV1-J-HbLA8_W1HFKGSjCCuuHsfe3qw="
+       "https://www.rednote.com/explore/6afd6dc20000000023012d56?xsec_token=ABq95ANohnKaAsKV1-J-HbLA8_W1HFKGSjCCuuHsfe3qw=",
+       "太阳韩国返点服务",
+       "1.9천",
+       "-"
       ],
       "cols": [
        "구분",
@@ -1105,14 +1114,18 @@
        ]
       ],
       "foot": "페이백이 0이 되는 누적 할인율: 롯데 34.5%↑(일부 29.5%↑), 신라 29.5%↑(국산 화장품 34.5%↑), 신세계 29.5%↑, 현대 28.95%↑, 아이파크 34.5%↑. '15 / 6' 같은 두 숫자는 원문 표기 그대로. 상품권 결제 시 4% 공제.",
-      "fresh": "yesterday"
+      "fresh": "yesterday",
+      "gap": true
      },
      {
       "name": "브랜드별 페이백 비교 (%) — 각 면세점 상위 목록 기준",
       "src": [
        "韩国免税店买热门品牌，先翻这份返点榜",
        "11-18",
-       "https://www.rednote.com/explore/6afd6dc20000000023012d56?xsec_token=ABq95ANohnKaAsKV1-J-HbLA8_W1HFKGSjCCuuHsfe3qw="
+       "https://www.rednote.com/explore/6afd6dc20000000023012d56?xsec_token=ABq95ANohnKaAsKV1-J-HbLA8_W1HFKGSjCCuuHsfe3qw=",
+       "太阳韩国返点服务",
+       "1.9천",
+       "-"
       ],
       "cols": [
        "브랜드",
@@ -1294,7 +1307,8 @@
        ]
       ],
       "foot": "'-'는 해당 면세점 상위 목록에 없음(요율 0이라는 뜻 아님), '문의'는 원문 '请咨询'. 숫자가 2곳 이상 있는 행에서 가장 높은 곳을 빨간색으로 표시.",
-      "fresh": "yesterday"
+      "fresh": "yesterday",
+      "gap": true
      }
     ]
    },
@@ -1306,7 +1320,10 @@
       "src": [
        "日本🇯🇵购物｜退税之外还有返点！",
        "11-18",
-       "https://www.rednote.com/explore/6afd6615000000002a0270b6?xsec_token=ABq95ANohnKaAsKV1-J-HbLAiCI_mR9uf3HwouVpLRIaw="
+       "https://www.rednote.com/explore/6afd6615000000002a0270b6?xsec_token=ABq95ANohnKaAsKV1-J-HbLAiCI_mR9uf3HwouVpLRIaw=",
+       "韩旭旅行咨询",
+       "5.3천",
+       "2"
       ],
       "cols": [
        "매장",
